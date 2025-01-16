@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Fps2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9C150A59-AEDD-4647-BF73-4567B7F9C82C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Fps2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Fps2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F9FFC822-F1EE-439E-8CE1-68D4C04F3C31}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Fps2">
+      <UniqueIdentifier>{B4402BED-A839-4838-8B1C-EA29E1590A00}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Fps2\BaseWeapon.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\BaseWeapon.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\DeafultEnemy.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\DeafultEnemy.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Fps2\Fps2.Build.cs">
+      <Filter>Source\Fps2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Fps2\Fps2.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\Fps2.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\Fps2Character.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\Fps2Character.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\Fps2GameMode.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\Fps2GameMode.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\Fps2HUD.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\Fps2HUD.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\Fps2Projectile.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\Fps2Projectile.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Fps2\MyEnemy.cpp">
+      <Filter>Source\Fps2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Fps2\MyEnemy.h">
+      <Filter>Source\Fps2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,3 @@
+D:\Fps2\Intermediate\Build\Win64\UE4Editor\Development\Fps2\Definitions.Fps2.h
+D:\Fps2\Source\Fps2\BaseWeapon.h
+D:\Fps2\Intermediate\Build\Win64\UE4Editor\Inc\Fps2\BaseWeapon.generated.h
